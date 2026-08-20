@@ -158,6 +158,3 @@ npx jest --watch
 * **Unit Tests**: Located in `tests/unit/` for isolated service testing.
 * **Integration Tests**: Located in `tests/integration.test.ts` for end-to-end API testing.
 
----
-
-Would you like me to tailor any specific section—such as adding deployment guides, Docker setups, or detailed service layer diagrams?
